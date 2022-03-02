@@ -1,4 +1,4 @@
-# Hackathon
+# Quantum-Hackathon Madrid
 
 ## Organización del repositorio 
 
